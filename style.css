@@ -1,0 +1,8 @@
+.block {
+  display: flex;
+  justify-content: center;
+}
+
+.score {
+  flex-direction: column;
+}
