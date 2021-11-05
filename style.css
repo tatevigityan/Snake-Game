@@ -6,3 +6,9 @@
 .score {
   flex-direction: column;
 }
+
+.snakeImage {
+  height: 400px;
+  width: 400px;
+  margin-left: 50px;
+}
