@@ -1,3 +1,7 @@
+body {
+  background: #a3ffa3;
+}
+
 .block {
   display: flex;
   justify-content: center;
